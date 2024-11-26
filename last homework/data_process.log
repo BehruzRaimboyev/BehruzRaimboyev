@@ -1,0 +1,8 @@
+2024-11-27 04:44:36,472 - INFO - ETL Process Started.
+2024-11-27 04:44:36,502 - INFO - Table engine_dim_currency created successfully.
+2024-11-27 04:44:36,529 - INFO - Data inserted into table engine_dim_currency.
+2024-11-27 04:44:36,538 - INFO - Table engine_dim_date created successfully.
+2024-11-27 04:44:36,973 - INFO - Data inserted into table engine_dim_date.
+2024-11-27 04:44:37,031 - INFO - Table engine_fact_internet_sales created successfully.
+2024-11-27 04:44:42,391 - INFO - Data inserted into table engine_fact_internet_sales.
+2024-11-27 04:44:42,391 - INFO - ETL Process Completed.
